@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Suparan Sharma
+Bsc in Cse from AIUB
 
 <!--
 **suparansharma/suparansharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
