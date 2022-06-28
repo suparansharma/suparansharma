@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SUPARAN SHARMA</h1>
 <h3 align="center">Front End Web Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://kind-heyrovsky-6240fd.netlify.app/](https://kind-heyrovsky-6240fd.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://suparan-sharma.netlify.app/](https://suparan-sharma.netlify.app/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Vxm0NB84XQEBeSjOni0fiu6c4ug5vy7-/view?usp=sharing](https://drive.google.com/file/d/1Vxm0NB84XQEBeSjOni0fiu6c4ug5vy7-/view?usp=sharing)
 
