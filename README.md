@@ -1,93 +1,239 @@
-<h1 align="center">Hi 👋, I'm Suparan Sharma Pranto</h1>
-<h3 align="center">A Passionate Web Developer from Bangladesh</h3>
+::: {align="center"}
+# 👋 Hi, I'm Suparan Sharma Pranto
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Animated programmer coding illustration" width="400"/>
+### Software Engineer · Frontend-Focused Full-Stack Developer
+
+```{=html}
+<p>
+```
+`<a href="https://suparansharma.github.io/Suparan_Portfolio/">`{=html}
+`<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">`{=html}
+`</a>`{=html}
+`<a href="https://drive.google.com/file/d/10T93xPvUUn3W7vJI0dBHPIRhVYoziuzy/view?usp=sharing">`{=html}
+`<img src="https://img.shields.io/badge/Resume-View-0F766E?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume">`{=html}
+`</a>`{=html}
+`<a href="https://www.linkedin.com/in/suparan-sharma-pranto/">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">`{=html}
+`</a>`{=html} `<a href="mailto:suparansharmap@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">`{=html}
+`</a>`{=html}
+```{=html}
 </p>
+```
+`<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" alt="Animated illustration of a programmer coding">`{=html}
 
----
-
-### 💡 About Me  
-🔹 **Frontend Developer** with strong expertise in **Next.js** and **React.js**, and solid experience with **Laravel**, **Node.js**, and **MongoDB**.  
-🔹 Passionate about building **scalable, high-performance applications** with a strong focus on **UI/UX design**.  
-🔹 Experienced in developing **ERP**, **CRM**, **eCommerce platforms**, **Hotel Management Systems**, and **POS solutions**.  
-🔹 Proficient in **bKash** and **SSLCommerz** payment gateway integrations.  
-🔹 A dedicated learner, currently enhancing my skills in **Next.js & Laravel**.  
-
----
-
-### 🚀 My Work  
-🔗 **Portfolio:** [View Portfolio](https://suparansharma.github.io/Suparan_Portfolio/)  
-📄 **Resume:** [Download Resume](https://drive.google.com/file/d/10T93xPvUUn3W7vJI0dBHPIRhVYoziuzy/view?usp=sharing)  
-
----
-
-### 💬 Ask Me About  
-🟢 **JavaScript**, **React.js**, **Next.js**, **Laravel**, **Node.js**, **MongoDB**  
-🟢 Frontend Development & UI/UX Optimization  
-🟢 Payment Gateway Integration (bKash, SSLCommerz)  
-
----
-
-### 📫 Contact Me  
-📧 Email: **suparansharmap@gmail.com**  
-💼 LinkedIn: [Suparan Sharma Pranto](https://www.linkedin.com/in/suparan-sharma-pranto/)
-
----
-
-## 🔥 Tech Stack & Tools
-
-### 🛠️ Languages & Frameworks
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
+```{=html}
+<p>
+```
+`<img src="https://komarev.com/ghpvc/?username=suparansharma&style=flat-square&color=2563eb" alt="Profile views">`{=html}
+`<img src="https://img.shields.io/badge/Focus-Modern%20Web%20Applications-7C3AED?style=flat-square" alt="Focus">`{=html}
+`<img src="https://img.shields.io/badge/Location-Bangladesh-006A4E?style=flat-square" alt="Location">`{=html}
+```{=html}
 </p>
+```
+:::
 
-### 🧰 Development Tools & Technologies
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
+------------------------------------------------------------------------
+
+## 👨‍💻 About Me
+
+I'm a Bangladesh-based **Frontend Developer and Software Engineer** who
+enjoys turning ideas into reliable, user-friendly web applications. I
+specialize in **React.js and Next.js**, with additional experience
+building backend services and business applications using **Laravel,
+Node.js, and databases**.
+
+-   ⚡ Build responsive, accessible, and performance-minded user
+    interfaces.
+-   🧩 Work on business applications including **ERP, CRM, eCommerce,
+    Hotel Management, and POS systems**.
+-   💳 Integrate local payment solutions such as **bKash and
+    SSLCommerz**.
+-   🎨 Care about thoughtful UI/UX, maintainable code, and scalable
+    architecture.
+-   🌱 Continue learning and improving my skills across the **Next.js
+    and Laravel** ecosystem.
+
+------------------------------------------------------------------------
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind,bootstrap" alt="Frontend technologies">`{=html}
+```{=html}
 </p>
+```
+### Backend & Databases
 
----
-
-## 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suparansharma&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suparansharma&theme=radical" alt="GitHub Streak" width="48%" />
-</div>
-
----
-
-## 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suparansharma&theme=darkhub&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb,firebase" alt="Backend and database technologies">`{=html}
+```{=html}
 </p>
+```
+### Tools & Platforms
 
----
-
-## 🧩 Featured Projects  
-- 🔗 [Hotel Management System](https://github.com/suparansharma/hotel-mgmt) – Laravel + React based room & booking solution.  
-- 🔗 [ERP Platform](https://github.com/suparansharma/erp-system) – Enterprise management with Next.js & Node.js.  
-
----
-
-### 🔗 Connect With Me  
-<p align="left">
-  <a href="https://linkedin.com/in/suparan-sharma-pranto" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-  <a href="mailto:suparansharmap@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40"/></a>
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,netlify,linux,photoshop" alt="Development tools and platforms">`{=html}
+```{=html}
 </p>
+```
+**Also familiar with:** REST APIs, Material UI, Ant Design, cPanel,
+Git-based workflows, bKash and SSLCommerz payment gateway integration.
 
----
+------------------------------------------------------------------------
 
-![Profile Views](https://komarev.com/ghpvc/?username=suparansharma&style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+## 🚀 What I Build
+
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%">
+```
+```{=html}
+<h3>
+```
+🛒 eCommerce Platforms
+```{=html}
+</h3>
+```
+Responsive shopping experiences, product catalogs, checkout flows, and
+payment integrations.
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%">
+```
+```{=html}
+<h3>
+```
+🏨 Hotel Management
+```{=html}
+</h3>
+```
+Web-based room, booking, and operational management solutions.
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%">
+```
+```{=html}
+<h3>
+```
+📊 ERP & CRM
+```{=html}
+</h3>
+```
+Business-focused systems designed to organize workflows and information.
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%">
+```
+```{=html}
+<h3>
+```
+🧾 POS Solutions
+```{=html}
+</h3>
+```
+Interfaces and workflows that support day-to-day sales and business
+operations.
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
+
+------------------------------------------------------------------------
+
+## 🌟 Featured Projects
+
+### 🏨 Hotel Management System
+
+A room and booking management solution built with Laravel and React.
+
+**Technologies:** `Laravel` `React`
+
+🔗 [View Repository](https://github.com/suparansharma/hotel-mgmt)
+
+### 📊 ERP Platform
+
+An enterprise management project built with Next.js and Node.js.
+
+**Technologies:** `Next.js` `Node.js`
+
+🔗 [View Repository](https://github.com/suparansharma/erp-system)
+
+> Have more projects to showcase? Add your strongest repositories here
+> with a short description, the technologies used, and a live demo link
+> when available.
+
+------------------------------------------------------------------------
+
+## 📈 GitHub at a Glance
+
+::: {align="center"}
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=suparansharma&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub profile statistics">`{=html}
+`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suparansharma&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages">`{=html}
+:::
+
+::: {align="center"}
+`<img src="https://streak-stats.demolab.com?user=suparansharma&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">`{=html}
+:::
+
+::: {align="center"}
+`<img src="https://github-profile-trophy.vercel.app/?username=suparansharma&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies">`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## 🤝 Let's Connect
+
+I'm happy to connect with developers, collaborate on web projects, and
+discuss frontend engineering, full-stack development, and product ideas.
+
+```{=html}
+<p>
+```
+`<a href="https://suparansharma.github.io/Suparan_Portfolio/">`{=html}🌐
+Portfolio`</a>`{=html} ·
+`<a href="https://www.linkedin.com/in/suparan-sharma-pranto/">`{=html}💼
+LinkedIn`</a>`{=html} ·
+`<a href="mailto:suparansharmap@gmail.com">`{=html}📧 Email`</a>`{=html}
+```{=html}
+</p>
+```
+📍 Bangladesh\
+📧 **suparansharmap@gmail.com**
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+`<i>`{=html}"Build with purpose. Keep learning. Make the web
+better."`</i>`{=html}
+:::
